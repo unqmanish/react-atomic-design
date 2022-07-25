@@ -1,7 +1,7 @@
 {
   "name": "react-atomic-design",
   "version": "0.1.0",
-  "description": "A starter template for React using Atomic Design Pattern.",
+  "description": "A starter template for React.",
   "author": "Manish",
   "license": "MIT",
   "dependencies": {
